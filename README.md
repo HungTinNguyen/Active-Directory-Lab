@@ -64,6 +64,12 @@ This project simulates a corporate network environment using VirtualBox, where a
    - Optionally, test internet connectivity if NAT is configured.
 
 ## Conclusion
+
+![Active Directory 3](https://github.com/user-attachments/assets/acb65f0d-f7dd-4bfa-9411-617661c65900)
+
+![Active Directory 4](https://github.com/user-attachments/assets/4c8ed197-7166-436a-8b84-669df23d97ab)
+
+
 This setup successfully simulates a corporate environment with a centralized domain controller and DHCP server using VirtualBox. This configuration is ideal for learning and testing Active Directory, DHCP, and network management in a controlled virtual environment.
 
 ---
